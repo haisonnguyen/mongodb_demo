@@ -1,0 +1,26 @@
+Number,Name,Type,Stamina,Attack,Defense,Capture Rate,Flee Rate,Candy,Quick Moves,Special Moves
+001,Bulbasaur,Grass,90,126,126,16%,10%,25,"Tackle, Vine Whip","Power Whip, Seed Bomb, Sludge Bomb"
+002,Ivysaur,Grass,120,156,158,8%,7%,100,"Razor Leaf, Vine Whip","Power Whip, Sludge Bomb, Solar Beam"
+003,Venusaur,Grass,160,198,200,4%,5%,,"Razor Leaf, Vine Whip","Petal Blizzard, Sludge Bomb, Solar Beam"
+004,Charmander,Fire,78,128,108,16%,10%,25,"Ember, Scratch","Flame Burst, Flame Charge, Flamethrower"
+005,Charmeleon,Fire,116,160,140,8%,7%,100,"Ember, Scratch","Fire Punch, Flame Burst, Flamethrower"
+006,Charizard,Fire,156,212,182,4%,5%,,"Ember, Wing Attack","Dragon Claw, Fire Blast, Flamethrower"
+007,Squirtle,Water,88,112,142,16%,10%,25,"Bubble, Tackle","Aqua Jet, Aqua Tail, Water Pulse"
+008,Wartortle,Water,118,144,176,8%,7%,100,"Bite, Water Gun","Aqua Jet, Hydro Pump, Ice Beam"
+009,Blastoise,Water,158,186,222,4%,5%,,"Bite, Water Gun","Flash Cannon, Hydro Pump, Ice Beam"
+010,Caterpie,Bug,90,62,66,40%,20%,12,"Bug Bite, Tackle",Struggle
+011,Metapod,Bug,100,56,86,20%,9%,50,"Bug Bite, Tackle",Struggle
+012,Butterfree,Flying,120,144,144,10%,6%,,"Bug Bite, Confusion","Bug Buzz, Psychic, Signal Beam"
+013,Weedle,Bug,80,68,64,40%,20%,12,"Bug Bite, Poison Sting",Struggle
+014,Kakuna,Bug,90,62,82,20%,9%,50,"Bug Bite, Poison Sting",Struggle
+015,Beedrill,Bug,130,144,130,10%,6%,,"Bug Bite, Poison Jab","Aerial Ace, Sludge Bomb, X-Scissor"
+016,Pidgey,Flying,80,94,90,40%,20%,12,"Quick Attack, Tackle","Aerial Ace, Air Cutter, Twister"
+017,Pidgeotto,Flying,126,126,122,20%,9%,50,"Steel Wing, Wing Attack","Aerial Ace, Air Cutter, Twister"
+018,Pidgeot,Flying,166,170,166,10%,6%,,"Steel Wing, Wing Attack","Aerial Ace, Air Cutter, Hurricane"
+019,Rattata,Normal,60,92,86,40%,20%,25,"Quick Attack, Tackle","Body Slam, Dig, Hyper Fang"
+020,Raticate,Normal,110,146,150,16%,7%,,"Bite, Quick Attack","Dig, Hyper Beam, Hyper Fang"
+021,Spearow,Flying,80,102,78,40%,15%,50,"Peck, Quick Attack","Aerial Ace, Drill Peck, Twister"
+022,Fearow,Flying,130,168,146,16%,7%,,"Peck, Steel Wing","Aerial Ace, Drill Run, Twister"
+023,Ekans,Poison,70,112,112,40%,15%,50,"Acid, Poison Sting","Gunk Shot, Sludge Bomb, Wrap"
+024,Arbok,Poison,120,166,166,16%,7%,,"Acid, Bite","Dark Pulse, Gunk Shot, Sludge Wave"
+025,Pikachu,Electric,70,124,108,16%,10%,50,"Quick Attack, Thunder Shock","Discharge, Thunder, Thunderbolt"
